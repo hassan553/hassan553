@@ -1,6 +1,3 @@
-Here's a more professional and polished version of your GitHub README:  
-
----
 
 ## Hi there! 👋 I'm Hassan Marzouk, a Flutter Developer  
 
@@ -21,7 +18,3 @@ Here's a more professional and polished version of your GitHub README:
 
 ### ⚡ Fun Fact  
 I'm always learning, improving, and striving to be better than yesterday! 🚀  
-
----
-
-This version enhances clarity, professionalism, and engagement. Let me know if you'd like any further refinements! 🚀
